@@ -1,0 +1,18 @@
+traceroute to yahoo.com (74.6.143.25), 30 hops max, 60 byte packets
+ 1  _gateway (192.168.3.1)  0.316 ms  0.523 ms  0.612 ms
+ 2  h254.s98.ts.hinet.net (168.95.98.254)  11.022 ms  11.245 ms  10.500 ms
+ 3  ntnk-3302.hinet.net (168.95.221.102)  11.294 ms  11.226 ms  11.223 ms
+ 4  tchn-3022.hinet.net (220.128.17.94)  15.159 ms 220-128-19-14.HINET-IP.hinet.net (220.128.19.14)  15.245 ms tchn-3022.hinet.net (220.128.17.94)  15.189 ms
+ 5  220-128-19-182.HINET-IP.hinet.net (220.128.19.182)  14.333 ms 220-128-17-14.HINET-IP.hinet.net (220.128.17.14)  15.119 ms 220-128-19-182.HINET-IP.hinet.net (220.128.19.182)  14.800 ms
+ 6  r4102-s2.tp.hinet.net (220.128.7.69)  14.030 ms r4102-s2.tp.hinet.net (220.128.14.93)  13.947 ms  14.406 ms
+ 7  r4002-s2.tp.hinet.net (220.128.11.141)  14.632 ms  14.614 ms  14.812 ms
+ 8  r12-pa.us.hinet.net (202.39.91.29)  143.516 ms  143.273 ms  141.598 ms
+ 9  202-39-82-25.HINET-IP.hinet.net (202.39.82.25)  157.447 ms  157.192 ms  157.410 ms
+10  ae-7.pat2.dnx.yahoo.com (216.115.96.115)  182.177 ms  182.378 ms  182.601 ms
+11  ae-3.pat2.che.yahoo.com (216.115.96.54)  187.085 ms  187.316 ms  185.409 ms
+12  ae-0.pat2.bfy.yahoo.com (216.115.97.204)  238.371 ms  238.557 ms ae-11.pat1.bfz.yahoo.com (216.115.96.108)  221.291 ms
+13  et-1-1-1.msr1.bf2.yahoo.com (72.30.223.53)  199.070 ms et-17-0-0.pat2.bfz.yahoo.com (209.191.64.171)  211.249 ms et-18-0-1.msr1.bf1.yahoo.com (74.6.227.131)  206.901 ms
+14  et-0-0-0.msr2.bf2.yahoo.com (74.6.227.149)  228.626 ms et-19-0-0.clr1-a-gdc.bf2.yahoo.com (74.6.122.41)  216.620 ms et-0-0-0.msr1.bf1.yahoo.com (74.6.227.129)  205.591 ms
+15  lo0.fab5-1-gdc.bf2.yahoo.com (74.6.123.240)  199.036 ms lo0.fab2-1-gdc.bf2.yahoo.com (74.6.123.243)  205.402 ms et-1-1-0.clr1-a-gdc.bf2.yahoo.com (74.6.122.53)  211.278 ms
+16  usw2-1-lbb.bf2.yahoo.com (74.6.98.139)  206.249 ms lo0.fab5-1-gdc.bf2.yahoo.com (74.6.123.240)  199.287 ms lo0.fab1-1-gdc.bf2.yahoo.com (74.6.123.244)  201.215 ms
+17  usw2-1-lbb.bf2.yahoo.com (74.6.98.139)  206.193 ms media-router-fp73.prod.media.vip.bf1.yahoo.com (74.6.143.25)  205.174 ms  204.917 ms
